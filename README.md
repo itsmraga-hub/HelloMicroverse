@@ -56,5 +56,4 @@ Give a ⭐️ if you like this project!
 
 ## License
 
-- [MIT](MIT.md)
-
+- [MIT](https://github.com/itsmraga-hub/HelloMicroverse/blob/added-html-css-linter/MIT.md)
