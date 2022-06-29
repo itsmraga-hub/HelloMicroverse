@@ -56,4 +56,5 @@ Give a ⭐️ if you like this project!
 
 ## License
 
-None.
+- [MIT](MIT.md)
+
