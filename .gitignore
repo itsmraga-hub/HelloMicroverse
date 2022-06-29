@@ -1,1 +1,4 @@
 node_modules/
+package.json
+test.md
+.gitignore.swp
